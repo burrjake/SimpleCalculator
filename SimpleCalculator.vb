@@ -1,4 +1,10 @@
-﻿Module SimpleCalculator
+﻿'Jake Burrell
+'RCET0265
+'Fall 2020
+'Simple Calculator
+'https://github.com/burrjake/SimpleCalculator.git
+
+Module SimpleCalculator
 
     Sub Main()
         Dim userMessage As String
